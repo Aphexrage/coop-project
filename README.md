@@ -6,13 +6,12 @@
   />
 </a>
 
-<br>
-
 <p align="center">
   <img 
     src="https://media.licdn.com/dms/image/v2/D4D0BAQFH-CsBnq-Lbg/company-logo_200_200/B4DZc4fnkHGgAI-/0/1748999502481/sharpen_it_logo?e=1754524800&v=beta&t=Hic969N8QzrKNeom8wBDr-5uHzF0hG3TrmbIWPHDZx0" 
     alt="Logo Agente"
     width="220px"
+    style="border-radius: 17px;"
   />
 </p>
 
