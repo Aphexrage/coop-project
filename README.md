@@ -1,21 +1,22 @@
 <a href="#"> 
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
     alt="banner"
   />
 </a>
-
 
 <br>
 
 <p align="center">
   <img 
-    src="https://cdn3d.iconscout.com/3d/premium/thumb/caixa-pacote-3966264-3286981.png" 
+    src="https://media.licdn.com/dms/image/v2/D4D0BAQFH-CsBnq-Lbg/company-logo_200_200/B4DZc4fnkHGgAI-/0/1748999502481/sharpen_it_logo?e=1754524800&v=beta&t=Hic969N8QzrKNeom8wBDr-5uHzF0hG3TrmbIWPHDZx0" 
     alt="Logo Agente"
     width="220px"
   />
 </p>
+
+<br></br>
 
 <h1 align="center">📦 Plataforma Varejista x Fornecedor</h1>
 
@@ -44,7 +45,7 @@ Automatizar uma rotina de organização do varejista:
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=80&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=80&section=footer"
     width="100%" 
     alt="rodapé"
   />
