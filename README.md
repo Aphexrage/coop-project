@@ -16,8 +16,6 @@
   />
 </p>
 
-<br></br>
-
 <h1 align="center">📦 Plataforma Varejista x Fornecedor</h1>
 
 Esse repositorio contem um sistema para facilitar
