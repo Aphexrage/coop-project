@@ -15,7 +15,7 @@
   />
 </p>
 
-<h1 align="center">📦 Plataforma Varejista x Fornecedor</h1>
+<h1 align="center">📦 Rede Social para Varejistas e Conectores </h1>
 
 Esse repositorio contem um sistema para facilitar
 ##
