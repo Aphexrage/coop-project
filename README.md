@@ -39,8 +39,7 @@ O usuário Fornecedor cria seu perfil cadastrando seus produtos e informação d
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTsKBgt67g7V83MUa-6I2Ex33DrnrxBDwMw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://thumbs.dreamstime.com/b/%C3%ADcone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841999.jpg" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM67Sxm7E8ScuvX1lzSfDnI2YCO5j5_fJk6w&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwzDfejQjrtyuTLtbhl78_QUBEtG86gBq7cIkjmtkpMgUuC7A6V9-l-UmgsX0mcz6wFk&usqp=CAU" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
 </div>
