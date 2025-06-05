@@ -20,9 +20,7 @@
 Ao desenvolver nossa ideia, notamos um obstáculo "Pq a necessidade de uma plataforma se o varejista pode usar e-mail ou WhatsApp?"
 Então, criamos precisamos desenvolver uma necessidade. Desenvolver uma rede social onde fornecedores possam se cadastrar para vender seus produtos para varejistas.
 Fornecedor vende um produto, então também é um vendedor e precisa de espaço de visibilidade. Além de oferecer esse canal de visibilidade onde o Fornecedor se cadastrar e criar seu perfil, oferecemos um chat.
-##
 
-✅ Objetivo do projeto 
 Ao desenvolver nossa ideia, notamos um obstáculo "Pq a necessidade de uma plataforma se o varejista pode usar e-mail ou WhatsApp?"
 Então, criamos precisamos desenvolver uma necessidade. Desenvolver uma rede social onde fornecedores possam se cadastrar para vender seus produtos para varejistas.
 Fornecedor vende um produto, então também é um vendedor e precisa de espaço de visibilidade. Além de oferecer esse canal de visibilidade onde o Fornecedor se cadastrar e criar seu perfil, oferecemos um chat.
