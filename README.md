@@ -44,6 +44,10 @@ O usuário Fornecedor cria seu perfil cadastrando seus produtos e informação d
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
 </div>
 
+##
+
+Link: https://trello.com/b/EklBlbw6/e-commerce-b2b-sharpen-it
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=80&section=footer"
