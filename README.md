@@ -29,6 +29,10 @@ O usuário Varejista cria seu perfil, entra na rede para buscar fornecedores. Qu
 
 O usuário Fornecedor cria seu perfil cadastrando seus produtos e informação da sua empresa, entra na rede e pode fazer publicações e etc.
 
+Link: https://trello.com/b/EklBlbw6/e-commerce-b2b-sharpen-it
+
+##
+
 <p align="center">⚙️ Tecnologias utilizadas</p>
 
 <br>
@@ -43,10 +47,6 @@ O usuário Fornecedor cria seu perfil cadastrando seus produtos e informação d
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZr_fCzpvLkG7vOInbfb6wxGZwWdSfFxQEw&s" style="width:50px; height:50px; border-radius:50%; margin:8px;" />
 </div>
-
-##
-
-Link: https://trello.com/b/EklBlbw6/e-commerce-b2b-sharpen-it
 
 <p align="center">
   <img 
