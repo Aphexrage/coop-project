@@ -21,9 +21,13 @@ Ao desenvolver nossa ideia, notamos um obstáculo "Pq a necessidade de uma plata
 Então, criamos precisamos desenvolver uma necessidade. Desenvolver uma rede social onde fornecedores possam se cadastrar para vender seus produtos para varejistas.
 Fornecedor vende um produto, então também é um vendedor e precisa de espaço de visibilidade. Além de oferecer esse canal de visibilidade onde o Fornecedor se cadastrar e criar seu perfil, oferecemos um chat.
 
-Ao desenvolver nossa ideia, notamos um obstáculo "Pq a necessidade de uma plataforma se o varejista pode usar e-mail ou WhatsApp?"
-Então, criamos precisamos desenvolver uma necessidade. Desenvolver uma rede social onde fornecedores possam se cadastrar para vender seus produtos para varejistas.
-Fornecedor vende um produto, então também é um vendedor e precisa de espaço de visibilidade. Além de oferecer esse canal de visibilidade onde o Fornecedor se cadastrar e criar seu perfil, oferecemos um chat.
+Rede social para varejistas e fornecedores, no menu de cadastro terá duas opções:
+Busco produtos - Varejista
+Ofereço produtos - Fornecedor
+
+O usuário Varejista cria seu perfil, entra na rede para buscar fornecedores. Quando encontra um de agrado, entra em contato no canal de atendimento do fornecedor para comprar a matéria bruta
+
+O usuário Fornecedor cria seu perfil cadastrando seus produtos e informação da sua empresa, entra na rede e pode fazer publicações e etc.
 
 <p align="center">⚙️ Tecnologias utilizadas</p>
 
